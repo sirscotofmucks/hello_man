@@ -1,5 +1,5 @@
 # hello_man
 Hello, man.
-A tutorial given by GitHub
+A tutorial given by GitHub.
 
 
